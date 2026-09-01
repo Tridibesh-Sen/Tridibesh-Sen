@@ -1,11 +1,13 @@
 <div align="center">
 
   # ✦ Tridibesh Sen
-  ### Computer Science & Backend Engineer • Full-Stack Developer & AI/ML Enthusiast
+  ### Computer Science & Systems Engineer • AI/ML & Full-Stack Developer
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tridibesh-sen/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tridibeshsen2002@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Kolkata%2C%20India-555?style=flat&logo=google-maps&logoColor=white)](#)
+  <p align="center">
+    <a href="mailto:tridibeshsen2002@gmail.com"><img src="https://img.shields.io/badge/Email-tridibeshsen2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.linkedin.com/in/tridibesh-sen/"><img src="https://img.shields.io/badge/LinkedIn-tridibesh--sen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://github.com/serpentxxx-cyrpt"><img src="https://img.shields.io/badge/GitHub-serpentxxx--cyrpt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
 
   <p align="center">
     Building scalable, intelligent systems that bridge the gap between low-level hardware constraints and high-level web & AI architectures.
@@ -18,7 +20,7 @@
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering at **University of Engineering & Management (UEM), Kolkata** (2025 – 2029).
 - 💼 **Current Focus:** Full-stack distributed systems, multi-agent pedagogical architectures, and local LLM integrations.
-- 🚀 **Ecosystem Contributor:** Creator of [Prompteiro](https://marketplace.visualstudio.com/items?itemName=prompteiro.prompteiro) (VS Code Marketplace)
+- 🚀 **Ecosystem Contributor:** Creator of [Prompteiro](https://marketplace.visualstudio.com/items?itemName=prompteiro.prompteiro) (VS Code Marketplace) and Web Development Lead at **IGNITIA**.
 - 🛠️ **Interests:** Agentic AI pipelines, Edge Machine Learning, Systems Architecture, and Open Source.
 
 ---
@@ -89,14 +91,6 @@
   - `Problem Solving Through Programming in C`
 
 ---
-
-## 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:tridibeshsen2002@gmail.com"><img src="https://img.shields.io/badge/Email-tridibeshsen2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/tridibesh-sen/"><img src="https://img.shields.io/badge/LinkedIn-tridibesh--sen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/serpentxxx-cyrpt"><img src="https://img.shields.io/badge/GitHub-serpentxxx--cyrpt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
 
 <div align="center">
   <sub>Designed & built with precision by Tridibesh Sen • © 2026</sub>
