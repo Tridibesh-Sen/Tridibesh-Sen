@@ -1,16 +1,103 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Tridibesh-Sen/Tridibesh-Sen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # ✦ Tridibesh Sen
+  ### Computer Science & Backend Engineer • Full-Stack Developer & AI/ML Enthusiast
 
-Here are some ideas to get you started:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tridibesh-sen/)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tridibeshsen2002@gmail.com)
+  [![Location](https://img.shields.io/badge/Location-Kolkata%2C%20India-555?style=flat&logo=google-maps&logoColor=white)](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p align="center">
+    Building scalable, intelligent systems that bridge the gap between low-level hardware constraints and high-level web & AI architectures.
+  </p>
+
+  ---
+</div>
+
+## 📌 About Me
+
+- 🎓 **Education:** B.Tech in Computer Science & Engineering at **University of Engineering & Management (UEM), Kolkata** (2025 – 2029).
+- 💼 **Current Focus:** Full-stack distributed systems, multi-agent pedagogical architectures, and local LLM integrations.
+- 🚀 **Ecosystem Contributor:** Creator of [Prompteiro](https://marketplace.visualstudio.com/items?itemName=prompteiro.prompteiro) (VS Code Marketplace)
+- 🛠️ **Interests:** Agentic AI pipelines, Edge Machine Learning, Systems Architecture, and Open Source.
+
+---
+
+## 🛠️ Technical Inventory
+
+<table>
+  <tr>
+    <td align="left" width="25%"><b>Languages</b></td>
+    <td><code>TypeScript</code> · <code>JavaScript (ES6+)</code> · <code>Python</code> · <code>C</code> · <code>Bash/Shell</code> · <code>SQL</code> · <code>HTML5/CSS3</code></td>
+  </tr>
+  <tr>
+    <td align="left" width="25%"><b>Frontend & UI</b></td>
+    <td><code>React.js</code> · <code>Next.js</code> · <code>Astro</code> · <code>Redux Toolkit</code> · <code>Tailwind CSS</code> · <code>GSAP</code> · <code>Pixi.js</code></td>
+  </tr>
+  <tr>
+    <td align="left" width="25%"><b>Backend & Data</b></td>
+    <td><code>Node.js</code> · <code>Express.js</code> · <code>RESTful APIs</code> · <code>MongoDB</code> · <code>MySQL</code> · <code>Firebase</code> · <code>JWT Auth</code></td>
+  </tr>
+  <tr>
+    <td align="left" width="25%"><b>AI & LLM Orchestration</b></td>
+    <td><code>LangGraph</code> · <code>Multi-Agent Systems</code> · <code>Custom RAG</code> · <code>Ollama (Local LLMs)</code> · <code>OpenAI API</code> · <code>Gemini API</code></td>
+  </tr>
+  <tr>
+    <td align="left" width="25%"><b>DevOps & Tools</b></td>
+    <td><code>Git / GitHub</code> · <code>VS Code API</code> · <code>Postman</code> · <code>Vite</code> · <code>Vercel</code> · <code>Linux</code></td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **Prompteiro** | Open-source VS Code extension to optimize & refine AI prompts directly inside editor workspaces via local Ollama models (`qwen2.5-coder`) & remote gateways. | `TypeScript` · `VS Code API` · `Ollama` | [Marketplace](https://marketplace.visualstudio.com/items?itemName=prompteiro.prompteiro) |
+| **MAES** | *Multi-Agent Pedagogical System* — Conversational AI tutor using LangGraph with a tutor agent and an auditor agent powered by a custom multimodal RAG pipeline. | `Python` · `LangGraph` · `RAG` · `AI Agents` | [Live App](https://maes-backend-d8of1uapz-tridibesh-sen-s-projects.vercel.app/) |
+| **IGNITIA Live Portal** | Official high-traffic portal for IEM-UEM group's flagship multi-domain tech fest, engineered with rich GSAP animations and responsive design. | `React.js` · `TypeScript` · `GSAP` | [Live Site](https://www.ignitia.live/) |
+| **AURA** | *Autonomous Urban Response Agent* — Disaster response engine featuring a Tri-Agent backend, brutalist React PWA, and Twilio SMS/WhatsApp offline bridges. | `MERN Stack` · `OpenAI API` · `Twilio` | [Live Demo](https://hackarena-aura.vercel.app/) |
+| **THE_FIRST_VOTE** | Gamified 3D simulator designed to educate first-time voters with real-time AI guidance powered by Google Gemini. | `JavaScript` · `Node.js` · `3D Web` · `Gemini` | [Live Demo](https://gdg-prompt-wars-first-vote.web.app/) |
+| **ORYGIN AI** | Full-stack digital media protection platform featuring invisible AI DNA watermarking, crawler vision detection, and encrypted live streaming. | `Python` · `MERN` · `OpenAI API` · `Cryptography` | — |
+| **Pacman Portfolio** | Interactive retro developer portfolio with procedurally generated widescreen mazes, custom collision physics, and AI ghost pathfinding. | `Astro` · `TypeScript` · `Pixi.js` · `Vite` | [GitHub](https://github.com/serpentxxx-cyrpt) |
+
+---
+
+## 💼 Experience & Leadership
+
+- **Web Development Lead & Developer** — *IGNITIA '26 (IEM-UEM Group)* `[May 2026 – Present]`
+  - Architected and shipped the official event web platform; led frontend engineering and UI performance optimization.
+- **AI/ML Intern** — *IEDC (Dept. of CSE IoT, CS & BT), UEM Kolkata* `[May 2026 – Present]`
+  - Designed educational AI pipelines, prototype GenAI workflows, and developed multi-agent components for MAES.
+- **Core Member** — *Microsoft Student Society, UEMK* `[Jun 2026 – Present]`
+  - Orchestrating developer workshops, community hackathons, and cloud/full-stack student mentorship initiatives.
+- **Participant** — *Google Developer Experts (Solution Challenge 2026)* `[Mar 2026 – Apr 2026]`
+  - Developed scalable social-impact solutions utilizing Firebase, Google Cloud, and React.
+
+---
+
+## 📜 Certifications & Education
+
+- **B.Tech in Computer Science and Engineering** — *University of Engineering & Management, Kolkata* (2025 – 2029)
+- **Higher Secondary (Science)** — *GSMS Taki House, West Bengal* (2023 – 2025)
+- **Certificates:**
+  - `GenAI for Data Analysis: OpenAI Assistant API`
+  - `MySQL for Data Engineering`
+  - `Cyber Security Fundamentals`
+  - `Generative AI for Web Developers`
+  - `Problem Solving Through Programming in C`
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="mailto:tridibeshsen2002@gmail.com"><img src="https://img.shields.io/badge/Email-tridibeshsen2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/tridibesh-sen/"><img src="https://img.shields.io/badge/LinkedIn-tridibesh--sen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/serpentxxx-cyrpt"><img src="https://img.shields.io/badge/GitHub-serpentxxx--cyrpt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
+
+<div align="center">
+  <sub>Designed & built with precision by Tridibesh Sen • © 2026</sub>
+</div>
