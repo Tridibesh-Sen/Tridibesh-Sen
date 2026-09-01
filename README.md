@@ -65,19 +65,6 @@
 
 ---
 
-## 💼 Experience & Leadership
-
-- **Web Development Lead & Developer** — *IGNITIA '26 (IEM-UEM Group)* `[May 2026 – Present]`
-  - Architected and shipped the official event web platform; led frontend engineering and UI performance optimization.
-- **AI/ML Intern** — *IEDC (Dept. of CSE IoT, CS & BT), UEM Kolkata* `[May 2026 – Present]`
-  - Designed educational AI pipelines, prototype GenAI workflows, and developed multi-agent components for MAES.
-- **Core Member** — *Microsoft Student Society, UEMK* `[Jun 2026 – Present]`
-  - Orchestrating developer workshops, community hackathons, and cloud/full-stack student mentorship initiatives.
-- **Participant** — *Google Developer Experts (Solution Challenge 2026)* `[Mar 2026 – Apr 2026]`
-  - Developed scalable social-impact solutions utilizing Firebase, Google Cloud, and React.
-
----
-
 ## 📜 Certifications & Education
 
 - **B.Tech in Computer Science and Engineering** — *University of Engineering & Management, Kolkata* (2025 – 2029)
