@@ -1,6 +1,6 @@
 <div align="center">
 
-  # ✦ Tridibesh Sen
+  # Tridibesh Sen
   ### Computer Science & Backend Engineer • Full-Stack Developer & AI/ML Enthusiast
 
   <p align="center">
