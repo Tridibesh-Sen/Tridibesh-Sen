@@ -1,7 +1,7 @@
 <div align="center">
 
   # ✦ Tridibesh Sen
-  ### Computer Science & Systems Engineer • AI/ML & Full-Stack Developer
+  ### Computer Science & Backend Engineer • Full-Stack Developer & AI/ML Enthusiast
 
   <p align="center">
     <a href="mailto:tridibeshsen2002@gmail.com"><img src="https://img.shields.io/badge/Email-tridibeshsen2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -19,7 +19,7 @@
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering at **University of Engineering & Management (UEM), Kolkata** (2025 – 2029).
 - 💼 **Current Focus:** Full-stack distributed systems, multi-agent pedagogical architectures, and local LLM integrations.
-- 🚀 **Ecosystem Contributor:** Creator of [Prompteiro](https://marketplace.visualstudio.com/items?itemName=prompteiro.prompteiro) (VS Code Marketplace) and Web Development Lead at **IGNITIA**.
+- 🚀 **Ecosystem Contributor:** Creator of [Prompteiro](https://marketplace.visualstudio.com/items?itemName=prompteiro.prompteiro) (VS Code Marketplace).
 - 🛠️ **Interests:** Agentic AI pipelines, Edge Machine Learning, Systems Architecture, and Open Source.
 
 ---
